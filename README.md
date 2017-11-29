@@ -16,3 +16,16 @@ The controllers in the repository are:
 - itia_fake_controller_system: for simulation pruposes
 - itia_helios_controller: a feedforward controller based on a FIR filter that smooth and micro-interpolates each control-loop setpoins.
 
+
+# Developers Contacts
+
+**Authors:** 
+
+- Manuel Beschi (manuel.beschi@itia.cnr.it)
+- Nicola Pedrocchi (nicola.pedrocchi@itia.cnr.it)
+ 
+Software License Agreement (BSD License) Copyright (c) 2016, National Research Council of Italy, Institute of Industrial Technologies and Automation. All rights reserved.
+
+# Acknowledge
+
+**This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 637095.**
