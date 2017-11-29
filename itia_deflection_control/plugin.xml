@@ -1,0 +1,7 @@
+<library path="lib/libitia_deflection_control">
+	<class name="itia/control/DeflectionControl" type="itia::control::DeflectionControl" base_class_type="controller_interface::ControllerBase">
+		<description>
+			Single Joint State Space Control
+		</description>
+	</class>
+</library>

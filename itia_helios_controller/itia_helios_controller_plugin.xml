@@ -1,0 +1,24 @@
+<library path="lib/libitia_helios_controller">
+  <class name="itia/motion/HeliosController" type="itia::motion::HeliosController" base_class_type="controller_interface::ControllerBase">
+  <description>
+    HeliosController
+  </description>
+  </class>
+	<class name="itia/motion/FirController" type="itia::motion::FirController" base_class_type="controller_interface::ControllerBase">
+		<description>
+			Helios FIR Controller
+		</description>
+	</class>
+  <class name="itia/motion/JointTeleopFirController" type="itia::motion::JointTeleopFirController" base_class_type="controller_interface::ControllerBase">
+    <description>
+      Helios Joint Teleop FIR Controller
+    </description>
+  </class>
+  <class name="itia/motion/CartTeleopFirController" type="itia::motion::CartTeleopFirController" base_class_type="controller_interface::ControllerBase">
+    <description>
+      Helios Cartesian Teleop FIR Controller
+    </description>
+    </class>
+    
+</library>
+

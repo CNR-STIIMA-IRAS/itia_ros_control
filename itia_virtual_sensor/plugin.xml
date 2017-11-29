@@ -1,0 +1,12 @@
+<library path="lib/libitia_virtual_sensor">
+  <class name="itia/control/VirtualSensor" type="itia::control::VirtualSensor" base_class_type="controller_interface::ControllerBase">
+    <description>
+      Virtual sensor
+    </description>
+  </class>
+  <class name="itia/control/VelocitySensor" type="itia::control::VelocitySensor" base_class_type="controller_interface::ControllerBase">
+    <description>
+      Velocity sensor
+    </description>
+  </class>
+</library>

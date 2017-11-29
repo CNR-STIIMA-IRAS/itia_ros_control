@@ -1,0 +1,7 @@
+<library path="lib/libitia_model_feedforward">
+  <class name="itia/control/FeedForwardControl" type="itia::control::FeedForwardControl" base_class_type="controller_interface::ControllerBase">
+		<description>
+			model feedforward
+		</description>
+	</class>
+</library>

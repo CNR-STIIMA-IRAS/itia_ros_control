@@ -1,0 +1,9 @@
+
+<library path="lib/libitia_nodelet_hw_interface">
+  <class name="itia/control/JointStatesNodeletHwInterface" type="itia::control::JointStatesNodeletHwInterface" base_class_type="nodelet::Nodelet">
+  <description>
+    itia::control::JointStatesNodeletHwInterface
+  </description>
+  </class>
+</library>
+

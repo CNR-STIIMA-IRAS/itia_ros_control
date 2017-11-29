@@ -1,0 +1,8 @@
+<library path="lib/libitia_joint_impedance_control">
+  <class name="itia/control/JointImpedanceControl" type="itia::control::JointImpedanceControl" base_class_type="controller_interface::ControllerBase">
+    <description>
+      Joint Impedance Control
+    </description>
+  </class>
+</library>
+

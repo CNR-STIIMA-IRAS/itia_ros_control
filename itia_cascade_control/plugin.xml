@@ -1,0 +1,12 @@
+<library path="lib/libitia_cascade_control">
+	<class name="itia/control/TopicCascadeControl" type="itia::control::TopicCascadeControl" base_class_type="controller_interface::ControllerBase">
+		<description>
+			Single Joint Cascade Control, Topic interface
+		</description>
+	</class>
+  <class name="itia/control/EffortCascadeControl" type="itia::control::EffortCascadeControl" base_class_type="controller_interface::ControllerBase">
+    <description>
+      Single Joint Cascade Control, Effort interface
+    </description>
+  </class>
+</library>

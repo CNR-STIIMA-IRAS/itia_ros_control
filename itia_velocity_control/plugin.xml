@@ -1,0 +1,12 @@
+<library path="lib/libitia_velocity_control">
+  <class name="itia/control/TopicVelocityControl" type="itia::control::TopicVelocityControl" base_class_type="controller_interface::ControllerBase">
+    <description>
+      Single Joint velocity Control, Topic interface
+    </description>
+  </class>
+  <class name="itia/control/VelocityInterfaceVelocityControl" type="itia::control::VelocityInterfaceVelocityControl" base_class_type="controller_interface::ControllerBase">
+    <description>
+      Single Joint velocity Control, Velocity interface
+    </description>
+  </class>
+</library>

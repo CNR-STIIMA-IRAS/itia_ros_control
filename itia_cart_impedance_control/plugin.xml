@@ -1,0 +1,8 @@
+<library path="lib/libitia_cart_impedance_control">
+  <class name="itia/control/CartImpedanceControl" type="itia::control::CartImpedanceControl" base_class_type="controller_interface::ControllerBase">
+    <description>
+      Joint Impedance Control
+    </description>
+  </class>
+</library>
+

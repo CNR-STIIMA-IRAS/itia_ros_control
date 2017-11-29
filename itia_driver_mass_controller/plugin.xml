@@ -1,0 +1,7 @@
+<library path="lib/libitia_driver_mass_controller">
+	<class name="itia/control/DrivenMassController" type="itia::control::DrivenMassController" base_class_type="controller_interface::ControllerBase">
+		<description>
+			Driven mass controller
+		</description>
+	</class>
+</library>

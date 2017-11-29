@@ -1,0 +1,10 @@
+<library path="lib/libitia_fake_controller_system">
+  <class name="itia/FakeControllerSystem" type="itia::FakeControllerSystem" base_class_type="controller_interface::ControllerBase">
+    <description>
+      itia::FakeControllerSystem
+    </description>
+  </class>
+</library>
+
+  
+
